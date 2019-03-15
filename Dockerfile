@@ -1,7 +1,7 @@
 # Smallest base image
 FROM alpine:3.9
 
-MAINTAINER John Felten<john.felten@gmail.com>
+MAINTAINER Reza Farrahi<imriss@yahoo.com>
 
 ADD VERSION .
 
